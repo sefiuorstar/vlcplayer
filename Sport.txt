@@ -1,0 +1,22 @@
+{
+	"Kanallar": [
+		{
+		"KanalNo": "22001",
+		"KanalAdi": "Alpha Sat",
+		"KategoriNo": "22",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/greece.png",
+		"Aciklama": "GREECE",
+		"KanalLogo": "http://213.128.89.165/Main/Logo/gr/AlphaTV.png",
+		"ServerUrl": "https://www.doofree88.com/live/sky-sports-football",
+		"PlayerType": "defaultplayer",
+		"PlayerControl": "false",
+		"OpenType": "graphm3u8",
+		"PatternText": "",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "",
+		"SonGuncellemeTarihi": "16.10.2016 13:39:18",
+		"Favori": 0,
+		"Secim": ""
+		}]}
