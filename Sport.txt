@@ -8,7 +8,7 @@
 		"Aciklama": "GREECE",
 		"KanalLogo": "http://213.128.89.165/Main/Logo/gr/AlphaTV.png",
 		"ServerUrl": "https://www.doofree88.com/live/sky-sports-football",
-		"PlayerType": "defaultplayer",
+		"PlayerType": "exoplayer",
 		"PlayerControl": "false",
 		"OpenType": "graphm3u8",
 		"PatternText": "",
