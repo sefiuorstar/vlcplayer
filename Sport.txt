@@ -13,7 +13,7 @@
 		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
 		"OpenType": "graphm3u8",
-		"PatternText": "src: \"(.*?)\",,,,,son",
+		"PatternText": "src:'(.*?)',,,,,,,,,,son",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
 		"Headers": "https://www.doofree88.com/live/",
