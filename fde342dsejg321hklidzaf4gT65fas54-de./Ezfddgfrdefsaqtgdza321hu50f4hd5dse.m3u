@@ -1,1 +1,18 @@
-,{"name":"ALFajer","liveStreams":[{"id":"5e1b16d84593f300016ab6e5","name":"FajerTV1 HD","url":"http://local.referrari.com/live/21124_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV1-HD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6e6","name":"FajerTV1 SD","url":"http://local.referrari.com/live/21123_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV1-SD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6e7","name":"FajerTV2 HD","url":"http://local.referrari.com/live/21121_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV2-HD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6e8","name":"FajerTV2 SD","url":"http://local.referrari.com/live/21120_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV2-SD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6e9","name":"FajerTV3 HD","url":"http://local.referrari.com/live/21118_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV3-HD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6ea","name":"FajerTV3 SD","url":"http://local.referrari.com/live/21117_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV3-SD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6eb","name":"FajerTV4 HD","url":"http://local.referrari.com/live/21115_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV4-HD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6ec","name":"FajerTV4 SD","url":"http://local.referrari.com/live/21114_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV4-SD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6ed","name":"FajerTV5 HD","url":"http://local.referrari.com/live/21112_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV5-HD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false},{"id":"5e1b16d84593f300016ab6ee","name":"FajerTV5 SD","url":"http://local.referrari.com/live/21111_.m3u8?token=3761a94b938d4ba1847a4246bcb33662","icon":"FajerTV5-SD.png","epgChannelId":"","catchupServer":null,"catchupStreamName":"","parentLocked":false}]
+{"name":"ALFajer","liveStreams":[{"
+#EXTINF:-1,AR: FajerTV1 HD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/584.m3u8"
+#EXTINF:-1,AR: FajerTV1 SD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/585.m3u8"
+#EXTINF:-1,AR: FajerTV2 HD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/587.m3u8"
+#EXTINF:-1,AR: FajerTV2 SD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/588.m3u8"
+#EXTINF:-1,AR: FajerTV3 HD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/590.m3u8"
+#EXTINF:-1,AR: FajerTV4 HD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/593.m3u8"
+#EXTINF:-1,AR: FajerTV5 HD
+"http://iptv.allkaicerteam.com:8080/live/spoki/1387248762/596.m3u8"
+
+
+}]}
