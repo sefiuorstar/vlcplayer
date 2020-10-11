@@ -255,7 +255,7 @@
  "PlayerType": "exoplayer",
                 "PlayerControl": "true",
                 "OpenType": "pattern",  
-                "PatternText": "['\"](http[^'\"]*ESPN_HD[^'\"]*)['\"]", 
+                "PatternText": "['\"](http[^'\"]*ESPN_HD-br[^'\"]*)['\"]", 
                 "StaticText": "",
 		"LinkIndex": "",
 		"Headers": "",
