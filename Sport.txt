@@ -25,6 +25,999 @@
 
 
 
+
+
+
+{ "KanalNo": "54458",
+ "KanalAdi": "TRING SPORT 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a686.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_1_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+
+
+
+
+{ "KanalNo": "554458",
+ "KanalAdi": "TRING SPORT 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a687.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_2_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+
+{ "KanalNo": "554458",
+ "KanalAdi": "TRING SPORT 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a688.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_3_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+ 
+
+{ "KanalNo": "554458",
+ "KanalAdi": "TRING SPORT 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a689.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_3_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+            
+            
+            
+
+
+{ "KanalNo": "5458",
+ "KanalAdi": "K_Sport 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1855.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_1_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+ 
+
+
+
+
+
+{ "KanalNo": "5348",
+ "KanalAdi": "K_Sport 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1856.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_2_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+ 
+
+{ "KanalNo": "53458",
+ "KanalAdi": "K_Sport 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1857.png", 
+"G": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_3_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+ 
+
+{ "KanalNo": "53468",
+ "KanalAdi": "K_Sport 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1858.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_4_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+            
+                   
+            
+
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "ESPN TV",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "http://files.rednetcontent.com/chlogo/ESPN-logo-wordmark.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*ESPN_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+            
+{ "KanalNo": "8",
+ "KanalAdi": "ESPN 2 TV",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "http://files.rednetcontent.com/chlogo/ESPN-logo-wordmark.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*ESPN2_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+            
+            
+            
+{ "KanalNo": "8",
+ "KanalAdi": "ESPN Brasil TV",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1232.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*ESPN_Brasil_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+            
+                   
+            
+{ "KanalNo": "8",
+ "KanalAdi": "ESPN Extra TV",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1233.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*espnextra[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+                    
+            
+{ "KanalNo": "8",
+ "KanalAdi": "FOX Sports HD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1236.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Fox_Sports_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+            
+                    
+            
+{ "KanalNo": "8",
+ "KanalAdi": "FOX Sports 2 HD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1237.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Fox_Sports_2_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+
+
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "Eleven Sports 1 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1500.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "direct",  
+                "PatternText": "['\"](http[^'\"]*elevensports1hd[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+{ "KanalNo": "8",
+ "KanalAdi": "Eleven Sports 2 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1501.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "vitamioplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports2hd[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+{ "KanalNo": "8",
+ "KanalAdi": "Eleven Sports 3 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1502.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports3[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+{ "KanalNo": "8",
+ "KanalAdi": "Eleven Sports 4 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1503.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports4[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+
+ 
+
+
+            
+
+  
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Variety1 FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a291.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_1_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+ 
+  
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Variety 2FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a292.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_2_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+  
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Variety 3FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a293.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_3_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+   
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Variety 4FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a294.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_4_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+ 
+   
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Football FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a295.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Football_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Premier League  ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a299.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Premier_League_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+            
+            
+            
+            
+            
+
+   
+
+
+    
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport LaLiga FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a297.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_LaLiga_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+
+
+
+    
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport PSL",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a303.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_PSL_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Grandstand FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a296.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Grandstand_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport WWE ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a2452.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_WWE_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Cricket ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a670.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Cricket_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ 
+ 
+
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Golf ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a304.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Supersport_Golf_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ 
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Rugby ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a768.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Rugby_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+ 
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Action ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a1144.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Action_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+
+ 
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Tennis ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a665.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Tennis_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Blitz FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a300.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Supersport_Blitz_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+{ "KanalNo": "8",
+ "KanalAdi": "SuperSport Maximo FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png", 
+"KanalLogo": "https://sport-tv-guide.live/images/stations/a302.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "exoplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Maximo_1_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "REDLINECLIENT",
+		"SonGuncellemeTarihi": "18.10.2016 22:19:20",
+		"Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {		
 		"KanalNo": "33007",
 		"KanalAdi": "Exoplayer",
