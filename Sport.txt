@@ -1215,6 +1215,223 @@
  
  
  
+{"KanalNo":"1144",
+"KanalAdi":"M. LaLiga TV HD",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/mlaliga.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+
+
+{"KanalNo":"1144",
+"KanalAdi":"Movistar Liga de Campeones",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a1460.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/campeones.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+{"KanalNo":"1144",
+"KanalAdi":"Movistar Deportes HD",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a364.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/mdeportes.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+{"KanalNo":"1144",
+"KanalAdi":"Movistar Golf",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a368.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/golf.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+{"KanalNo":"1144",
+"KanalAdi":"VAMOS ",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a1601.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/vamos.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+{"KanalNo":"1144",
+"KanalAdi":"GOL TV ",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a369.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/goltv.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+
+
+
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "SporTV 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1239.png", 
+  "ServerUrl": "http://a.srvbr.me:8880/live/778654/778654/748.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+"Headers":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23",
+"Favori": 0,
+		"Secim": ""}, 
+  
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "SporTV 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1240.png", 
+"ServerUrl": "http://a.srvbr.me:8880/live/778654/778654/747.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+"Headers":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23",
+"Favori": 0,
+		"Secim": ""}, 
+ 
+
+
+
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "SporTV 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1242.png", 
+"ServerUrl": "http://a.srvbr.me:8880/live/778654/778654/745.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+"Headers":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23",
+"Favori": 0,
+		"Secim": ""}, 
+ 
+
+
+
+
+
  
   
  
