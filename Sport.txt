@@ -422,6 +422,169 @@
             
             
             
+
+
+
+ 
+{"KanalNo":"853","KanalAdi":"Live Soccer","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","ServerUrl":"https://m.livesoccertv.com/","PlayerType":"webplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"{\"Referer\":\"https://m.livesoccertv.com/\"}","UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""}, 
+ 
+
+
+
+
+ 
+
+{
+
+                "KanalNo": "3501",
+                "KanalAdi": "Live 1",
+                "KategoriNo": "1",
+                 "Aciklama": "Live In Event",
+                "Bayrak": "Live In Event",
+                "KanalLogo": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "ServerUrl": "http://hhdstreams.club/page/ch1.php",
+                "PlayerType": "defaultplayer",
+                "PlayerControl": "false",
+                "OpenType": "graphm3u8",
+                "PatternText": "",
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "{\"Referer\":\"http://hhdstreams.club/hd/ch1.php\"}",
+                "UserAgent": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+
+
+
+
+
+
+
+
+
+{
+                "KanalNo": "3501",
+                "KanalAdi": "Live 2",
+                "KategoriNo": "1",
+                "Aciklama": "Live In Event",
+                "Bayrak": "Live In Event",
+                "KanalLogo": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "ServerUrl": "http://hhdstreams.club/page/ch2.php",
+                "PlayerType": "defaultplayer",
+                "PlayerControl": "false",
+                "OpenType": "graphm3u8",
+                "PatternText": "",
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "{\"Referer\":\"http://hhdstreams.club/hd/ch2.php\"}",
+                "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+
+
+
+
+
+
+{
+                "KanalNo": "3501",
+                "KanalAdi": "Live 3",
+                "KategoriNo": "1",
+                "Aciklama": "Live In Event",
+                "Bayrak": "Live In Event",
+                "KanalLogo": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "ServerUrl": "http://hhdstreams.club/page/ch3.php",
+                "PlayerType": "defaultplayer",
+                "PlayerControl": "false",
+                "OpenType": "graphm3u8",
+                "PatternText": "",
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "{\"Referer\":\"http://hhdstreams.club/hd/ch3.php\"}",
+                "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+
+
+
+
+
+
+
+
+
+
+
+{
+                "KanalNo": "3501",
+                "KanalAdi": "Live 4",
+                "KategoriNo": "1",
+                "Aciklama": "Live In Event",
+                "Bayrak": "Live In Event",
+                "KanalLogo": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "ServerUrl": "http://hhdstreams.club/page/ch4.php",
+                "PlayerType": "defaultplayer",
+                "PlayerControl": "false",
+                "OpenType": "graphm3u8",
+                "PatternText": "",
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "{\"Referer\":\"http://hhdstreams.club/hd/ch4.php\"}",
+                "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+
+
+
+
+
+
+
+
+
+
+{
+                "KanalNo": "3501",
+                "KanalAdi": "Live 5",
+                "KategoriNo": "1",
+                "Aciklama": "Live In Event",
+                "Bayrak": "Live In Event",
+                "KanalLogo": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
+                "ServerUrl": "http://hhdstreams.club/page/ch5.php",
+                "PlayerType": "defaultplayer",
+                "PlayerControl": "false",
+                "OpenType": "graphm3u8",
+                "PatternText": "",
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "{\"Referer\":\"http://hhdstreams.club/hd/ch5.php\"}",
+                "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+
+
+
             
             
           
