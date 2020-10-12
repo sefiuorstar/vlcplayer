@@ -5,18 +5,10 @@
 
 
 
-
-{"KanalNo":"03","KanalAdi":"Our Telegram Group","KategoriNo":"1005","Aciklama":"Our Telegram Group","Bayrak":"Reporting of non-working channels","KanalLogo":"https://1.bp.blogspot.com/-7vi-miz6tSc/XWseU6ipwbI/AAAAAAAAATc/qqvWZ8xswQ0YzCW4VCC4cBarOgE4aSIhwCLcBGAs/s1600/PicsArt_09-01-03.20.32.png","ServerUrl":"https://t.me/footballiveplus","PlayerType":"openbrowser","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"","SonGuncellemeTarihi":"03.05.2019 16:32:35","Favori": 0,
+ 
+{"KanalNo":"23191046755227","KanalAdi":"BEİN SPORTS 1 HD(SVR2)","KategoriNo":"3","Aciklama":"SPOR KANALLARI","Bayrak":"SPOR KANALLARI","KanalLogo":"https://3.bp.blogspot.com/-yyyBj6F2tQs/XYPMXNWjr8I/AAAAAAAAAVs/aRpYOWEBOvwi6m4L-XJ88Hr6kMbTOr_PACLcBGAsYHQ/s1600/PicsArt_09-19-08.39.49.png","ServerUrl":"https://app.slcksprtsapp.com/app/kanal/1.json , https://sportbar.biz/turbein2sport.html","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"pattern","PatternText":"['\"](http[^'\"]*m3u8[^'\"]*)['\"]","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"SelcukSportsᴴᴰ/12.0 ExoPlayerLib/2.10.1","SonGuncellemeTarihi":"","Favori": 0,
 		"Secim": ""},
 
-
-
-
-
- 
-{"KanalNo":"853","KanalAdi":"Live Soccer","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","ServerUrl":"https://m.livesoccertv.com/","PlayerType":"webplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"{\"Referer\":\"https://m.livesoccertv.com/\"}","UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
-		"Secim": ""}, 
- 
 
 
 
