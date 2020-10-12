@@ -488,6 +488,83 @@
  
  
  
+
+ 
+ {"KanalNo":"20","KanalAdi":"BT 1 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a97.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_1_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ {"KanalNo":"21","KanalAdi":"BT 2 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a100.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_2_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ 
+ 
+ {"KanalNo":"22","KanalAdi":"BT 3 
+ HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a108.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_3_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ {"KanalNo":"23","KanalAdi":"BT ESPN HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a98.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_ESPN_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+
+
+
  
       
 
