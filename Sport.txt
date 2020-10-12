@@ -6,8 +6,293 @@
 
 
  
-{"KanalNo":"23191046755227","KanalAdi":"BEİN SPORTS 1 HD(SVR2)","KategoriNo":"3","Aciklama":"SPOR KANALLARI","Bayrak":"SPOR KANALLARI","KanalLogo":"https://3.bp.blogspot.com/-yyyBj6F2tQs/XYPMXNWjr8I/AAAAAAAAAVs/aRpYOWEBOvwi6m4L-XJ88Hr6kMbTOr_PACLcBGAsYHQ/s1600/PicsArt_09-19-08.39.49.png","ServerUrl":"https://app.slcksprtsapp.com/app/kanal/1.json , https://sportbar.biz/turbein2sport.html","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"pattern","PatternText":"['\"](http[^'\"]*m3u8[^'\"]*)['\"]","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"SelcukSportsᴴᴰ/12.0 ExoPlayerLib/2.10.1","SonGuncellemeTarihi":"","Favori": 0,
-		"Secim": ""},
+
+{ "KanalNo": "8",
+ "KanalAdi": "(AR) Bein Sports HD 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be1.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein1hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ 
+
+ 
+ 
+ { "KanalNo": "9",
+ "KanalAdi": "(AR) Bein Sports HD 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be2.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein2hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+{ "KanalNo": "10",
+ "KanalAdi": "(AR) Bein Sports HD 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be3.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein3hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+
+
+
+
+
+{ "KanalNo": "11",
+ "KanalAdi": "(AR) Bein Sports HD 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be4.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein4hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+ 
+
+
+ { "KanalNo": "12",
+  "KanalAdi": "(AR) Bein Sports HD 5",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be5.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein5hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+ 
+  
+  
+  
+
+{ "KanalNo": "13",
+ "KanalAdi": "(AR) Bein Sports HD 6",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be6.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein6hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+  
+  
+  
+  
+
+
+
+
+
+
+
+ {"KanalNo":"14","KanalAdi":"(AR) Bein Sports HD 7","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be7.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein7hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ {"KanalNo":"15","KanalAdi":"(AR) Bein Sports HD 8","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be8.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein8hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+ {"KanalNo":"16","KanalAdi":"(AR) Bein Sports HD 9","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be9.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein9hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+ 
+ 
+ {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 10","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be10.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein10hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+
+ {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 11","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be11.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein11hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+  {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 12","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be12.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein12hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+
+
+
+ 
+
 
 
 
