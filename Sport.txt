@@ -10,7 +10,7 @@
 		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/poland.png",
 		"KanalLogo": "http://213.128.89.165/Main/Logo/uk/eska.png",
 		"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056",
-		"PlayerType": "mxplayerplus",
+		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
 		"OpenType": "pattern",
 		"PatternText": "token=(.*?)['\"]",
