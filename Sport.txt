@@ -13,7 +13,7 @@
 		"PlayerType": "mxplayer",
 		"PlayerControl": "false",
 		"OpenType": "pattern",
-		"PatternText": "['\"](http[^'\"]*elevensports1hd-por&token=RED_[^'\"]*)['\"]",
+		"PatternText": "['\"](http[^'\"]*bein12hd-ar&token=RED_[^'\"]*)['\"]",
 		"StaticText": "",
 		"LinkIndex": "",
 		"Headers": "",
