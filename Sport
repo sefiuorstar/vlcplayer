@@ -14,7 +14,7 @@
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Russia",
 "cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/sinema_rusian.txt",
-"cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206604.png"},
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/russia.png"},
 
 
 
@@ -23,7 +23,7 @@
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Belarus",
 "cat_url":"http://213.128.89.165/HOME/MobileTVGuide/belarus/kanal_belarus.txt",
-"cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png"},
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/belarus.png"},
 
 
 {"cat_id":892,
@@ -31,7 +31,7 @@
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Poland",
 "cat_url":"http://213.128.89.165/TEMEL/Primavera/poland/channel_poland.txt",
-"cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png"},
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/poland.png"},
 
 
 {"cat_id":893,
@@ -39,7 +39,7 @@
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Czechia",
 "cat_url":"http://213.128.89.165/TEMEL/Primavera/czechia/channel_czechia.txt",
-"cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206703.png"},
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/poland.png"},
 
 
 
@@ -48,7 +48,7 @@
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Slovakia",
 "cat_url":"http://213.128.89.165/HOME/MobileTVGuide/slovak/kanal_slovak.txt",
-"cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206761.png"},
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/slovakia.png"},
 
 
 {"cat_id":895,
@@ -56,7 +56,7 @@
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Bulgaria",
 "cat_url":"http://213.128.89.165/HOME/MobileTVGuide/bulgaria/kanal_bulgaria.txt",
-"cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206684.png"},
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/bulgaria.png"},
 
 
 {"cat_id":896,
