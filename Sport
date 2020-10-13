@@ -1,9 +1,17 @@
-{"Kategory":[ 
+{"Kategory":[
 
-{
+{"cat_id":888,
+"kategory":"Channels",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"SPORTS",
+"cat_url":"https://github.com/sefiuorstar/vlcplayer/raw/master/Bold2",
+"cat_foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgIkHd5kx4bPm_glqsejlG2vvtKMUY1X1lqw&usqp=CAU"},
 
- {"cat_id":888, "kategory":"Channels", "ulke_flag":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgIkHd5kx4bPm_glqsejlG2vvtKMUY1X1lqw&usqp=CAU", "ulke":"Live TV", "cat_url":"https://github.com/sefiuorstar/vlcplayer/raw/master/Bold2", "cat_foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgIkHd5kx4bPm_glqsejlG2vvtKMUY1X1lqw&usqp=CAU"}, 
- 
- {"cat_id":8818, "kategory":"Channels", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png", "ulke":"Live Streaming", "cat_url":"https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/Sport.txt", "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"}, 
- 
-{"cat_id":88181, "kategory":"Channels", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206604.png", "ulke":"Russia", "cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/sinema_rusian.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206604.png"}, 
+{"cat_id":889,
+"kategory":"Channels",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"SPORTS",
+"cat_url":"https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/Sport.txt",
+"cat_foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgIkHd5kx4bPm_glqsejlG2vvtKMUY1X1lqw&usqp=CAU"},
+
+]}
