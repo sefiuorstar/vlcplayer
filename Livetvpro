@@ -1,8 +1,12 @@
 {"Ulke":[ 
 
 
-{"ulke_id":5, "country":"Telegrame groupe", "ulke_flag":"https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png", "ulke":"UPDATE APP", "ulke_url":"https://play.google.com/store/apps/details?id=com.newday_apps.Primavera", "country_foto":"https://cdn0.iconfinder.com/data/icons/social-network-24/512/Telegram-512.png"}, 
-
+{"ulke_id":9999,
+"country":"COMING SOON....",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
+"ulke":"UPDATE APP",
+"ulke_url":"https://t.me/footballiveplus",
+"country_foto":"https://lh3.googleusercontent.com/FyBVrOfjQKec03xcs_n_uoBNvpa3J0rkRzjpqs40A4fZFhlMa6F_UR-4HAbPrUf6aQw=s180-rw"},
 
 {"ulke_id":6, "country":"Live Streaming", "ulke_flag":"https://image.freepik.com/vecteurs-libre/live-streaming-chanter_147754-84.jpg", "ulke":"Live Streaming", "ulke_url":"https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/Sport", "country_foto":"https://image.freepik.com/vecteurs-libre/live-streaming-chanter_147754-84.jpg"}, 
 
