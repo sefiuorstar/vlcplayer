@@ -28,7 +28,7 @@
 "kategory":"Belarus",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Belarus",
-"cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/kanal_belarus.txt",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/belarus/kanal_belarus.txt",
 "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png"},
 
 
@@ -63,6 +63,62 @@
 "ulke":"Bulgaria",
 "cat_url":"http://213.128.89.165/HOME/MobileTVGuide/bulgaria/kanal_bulgaria.txt",
 "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206684.png"},
+
+
+{"cat_id":896,
+"kategory":"Spain",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"Spain",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/spain/channel_spain3.txt",
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/spain.png"},
+
+
+
+
+{"cat_id":897,
+"kategory":"Albania",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"Albania",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/albania/channel_albania.txt",
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/albania.png"},
+
+
+
+{"cat_id":898,
+"kategory":"Turkey",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"Turkey",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/turkey/sinema_turkey.txt",
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png"},
+
+
+{"cat_id":899,
+"kategory":"Azerbaijan",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"Azerbaijan",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/azeri/channel_azerbaijan.txt",
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/azeri.png"},
+
+
+
+{"cat_id":900,
+"kategory":"North Cyprus",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"North Cyprus",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/kibris/channel_kibris.txt",
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/kibris.png"},
+
+
+
+{"cat_id":901,
+"kategory":"Germany",
+"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
+"ulke":"Germany",
+"cat_url":"http://213.128.89.165/TEMEL/Primavera/germany/channel_germany.txt",
+"cat_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/germany.png"},
+
+
+
 
 
 
