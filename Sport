@@ -1,8 +1,40 @@
-{"Kategory":[ {"cat_id":9998, "kategory":"Request for Channel Removal", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png", "ulke":"", "cat_url":"http://213.128.89.165/TEMEL/Primavera/bilgi.php", "cat_foto":"https://daks2k3a4ib2z.cloudfront.net/579bd1ac26366cb0486db7f5/57bfc71732d3d75b4ca5d824_error-icon.png"},
+{"Kategory":[ 
 
- {"cat_id":888, "kategory":"Channels", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png", "ulke":"Live TV", "cat_url":"https://github.com/sefiuorstar/vlcplayer/raw/master/Bold2", "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"}, 
+{
+
+ {"cat_id":888, "kategory":"Sport Tv", "ulke_flag":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgIkHd5kx4bPm_glqsejlG2vvtKMUY1X1lqw&usqp=CAU", "ulke":"Live TV", "cat_url":"https://github.com/sefiuorstar/vlcplayer/raw/master/Bold2", "cat_foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgIkHd5kx4bPm_glqsejlG2vvtKMUY1X1lqw&usqp=CAU"}, 
  
  {"cat_id":8818, "kategory":"Channels", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png", "ulke":"Live Streaming", "cat_url":"https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/Sport.txt", "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"}, 
  
+{"cat_id":8818, "kategory":"Russia", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206604.png", "ulke":"Russia", "cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/sinema_rusian.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206604.png"}, 
+ 
 
-{"cat_id":9999, "kategory":"Comments", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png", "ulke":"Comments", "cat_url":"https://play.google.com/store/apps/details?id=com.newday_apps.PrimaveraPro", "cat_foto":"https://cdn0.iconfinder.com/data/icons/octicons/1024/comment-discussion-512.png"}, ]}
+{"cat_id":8818, "kategory":"Belarus", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206717.png", "ulke":"Belarus", "cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/belarus\/kanal_belarus.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206717.png"}, 
+
+
+{"cat_id":8818, "kategory":"Poland", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png", "ulke":"Poland", "cat_url":"http:\/\/213.128.89.165\/TEMEL\/Primavera\/poland\/channel_poland.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png"}, 
+
+
+
+
+{"cat_id":8818, "kategory":"Czechia", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206703.png", "ulke":"Czechia", "cat_url":"http:\/\/213.128.89.165\/TEMEL\/Primavera\/czechia\/channel_czechia.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png"}, 
+
+
+
+
+{"cat_id":8818, "kategory":"Slovakia", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206761.png", "ulke":"Slovakia", "cat_url":"http:\/\/213.128.89.165\/TEMEL\/Primavera\/czechia\/kanal_slovak.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206761.png"}, 
+
+
+
+{"cat_id":8818, "kategory":"Bulgaria", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206761.png", "ulke":"Bulgaria", "cat_url":"http:\/\/213.128.89.165\/TEMEL\/Primavera\/czechia\/kanal_bulgaria.txt", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206684.png"}, 
+
+
+
+{"cat_id":8818, "kategory":"Turkey", "ulke_flag":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206634.png", "ulke":"Turkey", "cat_url":"Turkey", "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206684.png"}, 
+
+
+
+
+
+
+ ]}
