@@ -36,7 +36,7 @@
 "kategory":"Poland",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Poland",
-"cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/channel_poland.txt",
+"cat_url":"http://213.128.89.165/TEMEL/Primavera/poland/channel_poland.txt",
 "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206641.png"},
 
 
@@ -44,7 +44,7 @@
 "kategory":"Czechia",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Czechia",
-"cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/channel_czechia.txt",
+"cat_url":"http://213.128.89.165/TEMEL/Primavera/czechia/channel_czechia.txt",
 "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206703.png"},
 
 
@@ -53,7 +53,7 @@
 "kategory":"Slovakia",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Slovakia",
-"cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/kanal_slovak.txt",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/slovak/kanal_slovak.txt",
 "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206761.png"},
 
 
@@ -61,8 +61,11 @@
 "kategory":"Bulgaria",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/argentina.png",
 "ulke":"Bulgaria",
-"cat_url":"http:\/\/213.128.89.165\/HOME\/MobileTVGuide\/russia\/kanal_bulgaria.txt",
+"cat_url":"http://213.128.89.165/HOME/MobileTVGuide/bulgaria/kanal_bulgaria.txt",
 "cat_foto":"https:\/\/image.flaticon.com\/icons\/png\/512\/206\/206684.png"},
+
+
+
 
 
 ]}
