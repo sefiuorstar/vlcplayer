@@ -1,0 +1,1787 @@
+{
+	"Kanallar": [
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ "KanalNo": "8",
+ "KanalAdi": "(AR) Bein Sports HD 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be1.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein1hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ 
+
+ 
+ 
+ { "KanalNo": "9",
+ "KanalAdi": "(AR) Bein Sports HD 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be2.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein2hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+{ "KanalNo": "10",
+ "KanalAdi": "(AR) Bein Sports HD 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be3.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein3hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+
+
+
+
+
+{ "KanalNo": "11",
+ "KanalAdi": "(AR) Bein Sports HD 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be4.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein4hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+ 
+
+
+ { "KanalNo": "12",
+  "KanalAdi": "(AR) Bein Sports HD 5",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be5.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein5hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+ 
+  
+  
+  
+
+{ "KanalNo": "13",
+ "KanalAdi": "(AR) Bein Sports HD 6",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "http://wssfree.com/WSSv2.3/images/be6.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein6hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+  
+  
+  
+  
+
+
+
+
+
+
+
+ {"KanalNo":"14","KanalAdi":"(AR) Bein Sports HD 7","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be7.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein7hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ {"KanalNo":"15","KanalAdi":"(AR) Bein Sports HD 8","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be8.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein8hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+ {"KanalNo":"16","KanalAdi":"(AR) Bein Sports HD 9","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be9.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein9hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+ 
+ 
+ {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 10","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be10.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein10hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+
+ {"KanalNo":"18","KanalAdi":"(AR) Bein Sports HD 11","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be11.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein11hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+  {"KanalNo":"19","KanalAdi":"(AR) Bein Sports HD 12","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be12.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*bein12hd-ar[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+ 
+
+ {"KanalNo":"853","KanalAdi":"Bein 1 (FR) HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a400.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/58.m3u8","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""}, 
+ 
+ 
+ 
+ {"KanalNo":"854","KanalAdi":"Bein 2 (FR) HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a401.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/59.m3u8","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""}, 
+ 
+ 
+ {"KanalNo":"855","KanalAdi":"Bein 3 (FR) HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a402.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/60.m3u8","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""}
+ 
+ 
+ , 
+ 
+ 
+ 
+ 
+ 
+{ "KanalNo": "856",
+ "KanalAdi": "RMC SPORT HD 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*FR_RMC_SPORT1_HD-fr[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ 
+ { "KanalNo": "857",
+ "KanalAdi": "RMC SPORT HD 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*FR_RMC_SPORT2_HD-fr[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ 
+ 
+ 
+ { "KanalNo": "858",
+ "KanalAdi": "RMC SPORT HD 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*FR_RMC_SPORT3_HD-fr[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ 
+ { "KanalNo": "859",
+ "KanalAdi": "RMC SPORT HD 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1430.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*FR_RMC_SPORT4_HD-fr[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+
+
+
+
+{"KanalNo":"8531","KanalAdi":"Sky football","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a91.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/97.m3u8","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} 
+ 
+ 
+ 
+ , {"KanalNo":"8532","KanalAdi":"Sky Premier League","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a90.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/181.m3u8","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} 
+ 
+ 
+ 
+ 
+  
+  
+ , {"KanalNo":"8533","KanalAdi":"Sky Sports Main Event","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a663.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/99.m3u8","PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""}
+ 
+  
+ 
+ 
+ 
+ 
+ , {"KanalNo":"8534","KanalAdi":"Sky Action","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a93.png","ServerUrl": "http://185.180.223.89:25461/live/sportstv/iosapp/94.m3u8
+",
+ "PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} 
+ 
+ , {"KanalNo":"853","KanalAdi":"Sky sport Mix","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a123.png","ServerUrl": "http://185.180.223.89:25461/live/sportstv/iosapp/100.m3u8
+",
+ "PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} 
+ 
+ 
+  
+ , {"KanalNo":"8535","KanalAdi":"Sky Sports Arena","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/tv-station-sky-sports-arena-92.png",
+"ServerUrl": "http://185.180.223.89:25461/live/sportstv/iosapp/111.m3u8
+",
+ "PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} 
+ 
+ 
+
+ 
+ 
+ 
+  
+ , {"KanalNo":"8536","KanalAdi":"Sky Sports F1","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a118.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/96.m3u8
+",
+ "PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ , {"KanalNo":"8537","KanalAdi":"Sky sport GOLF","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a94.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/98.m3u8
+",
+"PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""}
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ , {"KanalNo":"8538","KanalAdi":"Sky sport Cricket","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a664.png","ServerUrl":"http://185.180.223.89:25461/live/sportstv/iosapp/95.m3u8
+",
+ "PlayerType":"defaultplayer","PlayerControl":"false","OpenType":"direct","PatternText":"","StaticText":"","LinkIndex":"","Headers":"","UserAgent":"iosapp2","SonGuncellemeTarihi":"25.01.2019 00:39:23","Favori": 0,
+		"Secim": ""} ,
+ 
+ 
+ 
+ 
+ 
+ 
+      
+
+  
+{ "KanalNo": "870",
+ "KanalAdi": "SuperSport Variety1 FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a291.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_1_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+ 
+  
+{ "KanalNo": "871",
+ "KanalAdi": "SuperSport Variety 2FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a292.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_2_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+  
+{ "KanalNo": "872",
+ "KanalAdi": "SuperSport Variety 3FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a293.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_3_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+   
+{ "KanalNo": "873",
+ "KanalAdi": "SuperSport Variety 4FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a294.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Variety_4_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+ 
+   
+{ "KanalNo": "874",
+ "KanalAdi": "SuperSport Football FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a295.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Football_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+{ "KanalNo": "875",
+ "KanalAdi": "SuperSport Premier League  ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a299.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Premier_League_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+            
+            
+            
+            
+            
+
+   
+
+
+    
+{ "KanalNo": "876",
+ "KanalAdi": "SuperSport LaLiga FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a297.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_LaLiga_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+
+
+
+    
+{ "KanalNo": "877",
+ "KanalAdi": "SuperSport PSL",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a303.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_PSL_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+{ "KanalNo": "878",
+ "KanalAdi": "SuperSport Grandstand FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a296.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Grandstand_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+
+
+
+{ "KanalNo": "879",
+ "KanalAdi": "SuperSport WWE ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a2452.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_WWE_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+
+
+{ "KanalNo": "880",
+ "KanalAdi": "SuperSport Cricket ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a670.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Cricket_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ 
+ 
+
+{ "KanalNo": "881",
+ "KanalAdi": "SuperSport Golf ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a304.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Supersport_Golf_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+ 
+{ "KanalNo": "882",
+ "KanalAdi": "SuperSport Rugby ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a768.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Rugby_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+ 
+{ "KanalNo": "883",
+ "KanalAdi": "SuperSport Action ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1144.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Action_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+
+ 
+{ "KanalNo": "884",
+ "KanalAdi": "SuperSport Tennis ",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a665.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Tennis_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+{ "KanalNo": "885",
+ "KanalAdi": "SuperSport Blitz FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a300.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Supersport_Blitz_FHD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+{ "KanalNo": "886",
+ "KanalAdi": "SuperSport Maximo FHD",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a302.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*SuperSport_Maximo_1_HD[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+
+ 
+ {"KanalNo":"20","KanalAdi":"BT 1 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a97.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_1_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ {"KanalNo":"21","KanalAdi":"BT 2 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a100.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_2_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ 
+ 
+ {"KanalNo":"22","KanalAdi":"BT 3 
+ HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a108.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_3_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+ {"KanalNo":"23","KanalAdi":"BT ESPN HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a98.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BT_Sport_ESPN_HD-uk[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+  {"KanalNo":"85330","KanalAdi":"SPORT TV 1 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",
+"ServerUrl":"https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=139\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" }, 
+ 
+ {"KanalNo":"853","KanalAdi":"SPORT TV 2 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a451.png","ServerUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=140\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+ 
+ {"KanalNo":"85331","KanalAdi":"SPORT TV 3 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a452.png", "ServerUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=141\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+ {"KanalNo":"85332","KanalAdi":"SPORT TV 4 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a453.png", "ServerUrl": "https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=142\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+ {"KanalNo":"85333","KanalAdi":"SPORT TV 5 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a453.png", "ServerUrl": "https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=143\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+
+
+
+
+
+
+{ "KanalNo": "840",
+ "KanalAdi": "Eleven Sports 1 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1500.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports1hd[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+{ "KanalNo": "841",
+ "KanalAdi": "Eleven Sports 2 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1501.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports2hd[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+{ "KanalNo": "842",
+ "KanalAdi": "Eleven Sports 3 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1502.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports3[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+{ "KanalNo": "843",
+ "KanalAdi": "Eleven Sports 4 PT",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1557.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*elevensports4[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+
+ 
+{ "KanalNo": "844",
+ "KanalAdi": "Benfica TV",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a812.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+  "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*btv1hd[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+{"KanalNo":"1144",
+"KanalAdi":"M. LaLiga TV HD",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/mlaliga.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+
+
+{"KanalNo":"11414",
+"KanalAdi":"Movistar Liga de Campeones",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a1460.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/campeones.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+{"KanalNo":"11424",
+"KanalAdi":"Movistar Deportes HD",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a364.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/mdeportes.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+{"KanalNo":"11434",
+"KanalAdi":"Movistar Golf",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a368.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/golf.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+{"KanalNo":"11444",
+"KanalAdi":"VAMOS ",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a1601.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/vamos.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+{"KanalNo":"11454",
+"KanalAdi":"GOL TV ",
+"KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+"KanalLogo":"https://sport-tv-guide.live/images/stations/a369.png",
+"ServerUrl":"https://vergol.com/aplicacion/app21/deportes/goltv.php",
+"PlayerType":"defaultplayer",
+"PlayerControl":"false",
+"OpenType":"staticpattern",
+"PatternText":"source: '(.*?)'",
+"StaticText":"https:",
+"LinkIndex":"",
+"Headers":"{\"Referer\":\"https://vergol.com/aplicacion/tv-deportes.php\"}",
+"UserAgent":"mierda",
+"SonGuncellemeTarihi":"04.06.2019 22:39:32",
+"Favori": 0,
+		"Secim": ""},
+
+
+
+
+
+
+
+
+
+
+
+
+{ "KanalNo": "890",
+ "KanalAdi": "SporTV 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1239.png", 
+  "ServerUrl": "http://a.srvbr.me:8880/live/778654/778654/748.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+"Headers":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23",
+"Favori": 0,
+		"Secim": ""}, 
+  
+
+
+
+
+{ "KanalNo": "891",
+ "KanalAdi": "SporTV 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1240.png", 
+"ServerUrl": "http://a.srvbr.me:8880/live/778654/778654/747.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+"Headers":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23",
+"Favori": 0,
+		"Secim": ""}, 
+ 
+
+
+
+
+
+
+
+{ "KanalNo": "892",
+ "KanalAdi": "SporTV 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1242.png", 
+"ServerUrl": "http://a.srvbr.me:8880/live/778654/778654/745.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+"Headers":"{\"Referer\":\"https://multicanais.com/player.php?canal=sportv\"}",
+"UserAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","SonGuncellemeTarihi":"25.01.2019 00:39:23",
+"Favori": 0,
+		"Secim": ""}, 
+ 
+
+
+
+
+{ "KanalNo": "54458",
+ "KanalAdi": "TRING SPORT 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a686.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_1_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+ 
+
+
+
+
+{ "KanalNo": "5544589",
+ "KanalAdi": "TRING SPORT 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a687.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+ "PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_2_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+
+
+
+
+{ "KanalNo": "5544158",
+ "KanalAdi": "TRING SPORT 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a688.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_3_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+            
+            
+            
+            
+ 
+
+{ "KanalNo": "5544258",
+ "KanalAdi": "TRING SPORT 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a689.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*Tring_Sport_3_FHD_VIP_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+ 
+ 
+            
+            
+            
+
+
+{ "KanalNo": "543458",
+ "KanalAdi": "K_Sport 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1855.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_1_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+ 
+
+
+
+
+
+{ "KanalNo": "534348",
+ "KanalAdi": "K_Sport 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1856.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_2_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+ 
+
+{ "KanalNo": "534758",
+ "KanalAdi": "K_Sport 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1857.png", 
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_3_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+
+ 
+
+{ "KanalNo": "534868",
+ "KanalAdi": "K_Sport 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1858.png", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=0269041596&pid=1&mac=B89BED0206E0&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+",
+"PlayerType": "webplayer",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*K_Sport_4_AL[^'\"]*)['\"]", 
+                "StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT",
+                "SonGuncellemeTarihi": "24.04.2017 20:03:40",
+                "Favori": 0,
+		"Secim": ""
+             
+            }, 
+ 
+            
+                   
+            
+
+ 
+ 
+ 
+
+
+{ "KanalNo": "8111",
+ "KanalAdi": "True Premier Football 1",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1818.png", 
+ "ServerUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=151\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+
+
+
+
+{ "KanalNo": "8112",
+ "KanalAdi": "True Premier Football 2",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1819.png", 
+ "ServerUrl": "https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=152\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+
+
+
+{ "KanalNo": "8113",
+ "KanalAdi": "True Premier Football 3",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1820.png", 
+ "ServerUrl": "https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=153\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+
+
+
+{ "KanalNo": "8114",
+ "KanalAdi": "True Premier Football 4",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1821.png", 
+ "ServerUrl": "https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=154\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" },
+ 
+
+
+
+
+{ "KanalNo": "8115",
+ "KanalAdi": "True Premier Football 5",
+ "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "KanalLogo": "https://sport-tv-guide.live/images/stations/a1822.png", 
+ "ServerUrl": "https://www.livedoomovies.com/02_PremierHD5_480p/chunklist.m3u8
+",
+"PlayerType": "defaultplayer",
+ "PlayerControl": "false", 
+ "OpenType": "direct", 
+ "PatternText": "", 
+ "StaticText": "",
+ "LinkIndex": "", 
+ "Headers":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=155\"}",
+ "UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "SonGuncellemeTarihi": "",
+ "Favori": 0,
+		"Secim": "" }
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+]}
+ 
+
