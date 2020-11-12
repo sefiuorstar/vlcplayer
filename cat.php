@@ -2,7 +2,7 @@
       {
           "channelName": "Bein Sport 1",
           "channelImg": "https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png",
-          "url": "https://ustream.to/stream.php?embed&id=antena-1-romanesti"
+          "url": "https://08sportbar.online/mfootball1.html"
       },
         {
           "channelName": "Bein Sport 2",
