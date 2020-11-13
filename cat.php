@@ -2,17 +2,17 @@
       {
           "channelName": "Bein Sport 1",
           "channelImg": "https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png",
-          "url": "https://08sportbar.online/mfootball1.html"
+          "url": "http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein1-hq"
       },
         {
           "channelName": "Bein Sport 2",
           "channelImg": "https://2.bp.blogspot.com/-8vZtbyphJoY/WrzHH4IamzI/AAAAAAAAaB8/d1hxk3XNBHIIwXzQrxhpJN0eb4l5HhlnQCLcBGAs/s1600/2-HD.png",
-          "url": "http://unblocked.to/beinsports2?player=1"
+          "url": "http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein2-hq"
       },
         {
           "channelName": "Bein Sport 3",
           "channelImg": "https://2.bp.blogspot.com/-LK5uO6tts4k/WrzHH6XJ1VI/AAAAAAAAaB4/DzvG3CvEzv0CTWwtYqwXXRCcUWeVwfYtgCLcBGAs/s1600/3-HD.png",
-          "url": "http://unblocked.to/beinsports3?player=1"
+          "url": "http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein3-hq"
       },
       {
           "channelName": "Bein Sport 4",
