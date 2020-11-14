@@ -17,7 +17,7 @@
       {
           "channelName": "Bein Sport 4",
           "channelImg": "https://4.bp.blogspot.com/-M6uswGEXJoY/WrzHH8p7QyI/AAAAAAAAaB0/vq1MtGEDIkg-FD1KoWX24V32-rzWXoGZACLcBGAs/s1600/4-HD.png",
-          "url": "http://unblocked.to/beinsports4?player=1"
+          "url": "http://www.elahmad.com/tv/live/arab_live.php?id=bein_1"
       },
         {
           "channelName": "Bein Sport 5",
