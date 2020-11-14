@@ -2,7 +2,7 @@
       {
           "channelName": "Bein Sport 1",
           "channelImg": "https://4.bp.blogspot.com/-L5tcqonCJEI/WryV7yAv8GI/AAAAAAAAaBk/nPnsqNJX64oS72twFhug9UBoHO6AXtHygCLcBGAs/s1600/bein1.png",
-          "url": "http://m.liveonlinetv.org/external.php?title=beIN%20Sports&stream=bein1-hq"
+          "url": "http://51.178.220.156/?watch=TR/mbc1-ar&token=RED_8M1YcthbB_Y-VW_ZnpV78g==,1605452787.2778340158&t=1&s=1&p=1&c=BR&r=65"
       },
         {
           "channelName": "Bein Sport 2",
