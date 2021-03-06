@@ -21,7 +21,7 @@
                 "StaticText": "http://46.105.112.116/?watch=EX/bein10hd-ar&token=",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02 Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -49,7 +49,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -80,7 +80,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -108,7 +108,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -135,7 +135,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -164,7 +164,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -191,7 +191,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -209,7 +209,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -226,7 +226,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -245,7 +245,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -263,7 +263,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -279,7 +279,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -322,7 +322,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -347,7 +347,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -374,7 +374,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -399,7 +399,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -505,7 +505,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -532,7 +532,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -558,7 +558,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -583,7 +583,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -610,7 +610,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -635,7 +635,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -668,7 +668,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -697,7 +697,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -720,7 +720,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -747,7 +747,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -774,7 +774,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -801,7 +801,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -826,7 +826,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -851,7 +851,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -878,7 +878,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -903,7 +903,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -927,7 +927,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -948,7 +948,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -965,7 +965,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -986,7 +986,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1004,7 +1004,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1100,7 +1100,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1125,7 +1125,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1150,7 +1150,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1173,7 +1173,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1198,7 +1198,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1437,7 +1437,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1465,7 +1465,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1491,7 +1491,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1518,7 +1518,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1547,7 +1547,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1575,7 +1575,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1599,7 +1599,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1623,7 +1623,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1783,7 +1783,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1811,7 +1811,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1842,7 +1842,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1870,7 +1870,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1897,7 +1897,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1926,7 +1926,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1953,7 +1953,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1971,7 +1971,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1988,7 +1988,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2007,7 +2007,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2025,7 +2025,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2041,7 +2041,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2084,7 +2084,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2109,7 +2109,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2136,7 +2136,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2161,7 +2161,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2259,7 +2259,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2276,7 +2276,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2297,7 +2297,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2315,7 +2315,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2344,7 +2344,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2371,7 +2371,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2397,7 +2397,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2422,7 +2422,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2449,7 +2449,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2474,7 +2474,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2507,7 +2507,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2536,7 +2536,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2559,7 +2559,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2586,7 +2586,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2613,7 +2613,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2640,7 +2640,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2665,7 +2665,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2690,7 +2690,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2717,7 +2717,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2742,7 +2742,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2766,7 +2766,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2864,7 +2864,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2889,7 +2889,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2914,7 +2914,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2937,7 +2937,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -2962,7 +2962,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3209,7 +3209,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3237,7 +3237,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3263,7 +3263,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3290,7 +3290,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3319,7 +3319,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3347,7 +3347,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3371,7 +3371,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -3395,7 +3395,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -4154,7 +4154,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -4179,7 +4179,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -4204,7 +4204,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -4227,7 +4227,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -4252,7 +4252,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5211,7 +5211,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5238,7 +5238,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5264,7 +5264,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5289,7 +5289,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5316,7 +5316,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5341,7 +5341,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5374,7 +5374,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5403,7 +5403,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5426,7 +5426,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5453,7 +5453,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5480,7 +5480,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5507,7 +5507,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5532,7 +5532,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5557,7 +5557,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5584,7 +5584,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5609,7 +5609,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -5633,7 +5633,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6115,7 +6115,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6141,7 +6141,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6169,7 +6169,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6197,7 +6197,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6224,7 +6224,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6252,7 +6252,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6534,7 +6534,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6562,7 +6562,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6588,7 +6588,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6615,7 +6615,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6644,7 +6644,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6672,7 +6672,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6696,7 +6696,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -6720,7 +6720,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
