@@ -12,16 +12,16 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
-  "PlayerType": "defaultplayer",
+  "PlayerType": "mediaplayer",
                 "PlayerControl": "true",
                 "OpenType": "pattern",  
-                "PatternText": "['\"](http[^'\"]*bein1hd-ar[^'\"]*)['\"]", 
-                "StaticText": "",
+                "PatternText": "token=(.*?)['\"]", 
+                "StaticText": "http://46.105.112.116/?watch=EX/bein10hd-ar&token=",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -40,7 +40,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be2.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -71,7 +71,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -99,7 +99,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -126,7 +126,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1&sn=unknown&customer=REDMI&lang=fr&cs=amlogic&check=121915056
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -155,7 +155,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -182,7 +182,7 @@
 
 
 
- {"KanalNo":"14","KanalAdi":"(AR) Bein Sports HD 7","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be7.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+ {"KanalNo":"14","KanalAdi":"(AR) Bein Sports HD 7","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be7.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -200,7 +200,7 @@
             
 
 
- {"KanalNo":"15","KanalAdi":"(AR) Bein Sports HD 8","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be8.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E15056
+ {"KanalNo":"15","KanalAdi":"(AR) Bein Sports HD 8","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be8.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=19451640735056
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -217,7 +217,7 @@
             }, 
             
  
- {"KanalNo":"16","KanalAdi":"(AR) Bein Sports HD 9","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be9.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1056
+ {"KanalNo":"16","KanalAdi":"(AR) Bein Sports HD 9","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be9.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073056
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -236,7 +236,7 @@
  
  
  
- {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 10","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be10.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1056
+ {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 10","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be10.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073056
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -254,7 +254,7 @@
             
  
 
- {"KanalNo":"18","KanalAdi":"(AR) Bein Sports HD 11","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be11.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E15056
+ {"KanalNo":"18","KanalAdi":"(AR) Bein Sports HD 11","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be11.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=19451640735056
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -270,7 +270,7 @@
              
             }, 
             
-  {"KanalNo":"19","KanalAdi":"(AR) Bein Sports HD 12","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be12.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E15056
+  {"KanalNo":"19","KanalAdi":"(AR) Bein Sports HD 12","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be12.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=19451640735056
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -313,7 +313,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -338,7 +338,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -365,7 +365,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
- "ServerUrl": "httphttps://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+ "ServerUrl": "httphttps://android.rediptv2.com/ch.php?usercode=1256681722&pid=1&mac=B89BED0207FA&sn=unknown&customer=REDMI&lang=eng&cs=amlogic&check=1945164073
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
