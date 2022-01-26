@@ -31,7 +31,7 @@
 		"Aciklama": "HUNGARY",
 		"KanalLogo": "https://onlinestream.live/logos/s6147.png",
 		"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277",
-		"PlayerType": "vitamio",
+		"PlayerType": "mxplayerplus",
 		"PlayerControl": "false",
 		"OpenType": "pattern",
 		"PatternText": "BEIN_SPORTS_MAX1HD-ar,,,son",
@@ -55,7 +55,7 @@
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be1.png", 
  "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
-  "PlayerType": "mxplayerplus",
+  "PlayerType": "vitamio",
                 "PlayerControl": "true",
                 "OpenType": "pattern",  
                 "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]", 
