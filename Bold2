@@ -23,6 +23,28 @@
 
 
 
+{
+		"KanalNo": "23062",
+		"KanalAdi": "RTL +",
+		"KategoriNo": "23",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/hungary.png",
+		"Aciklama": "HUNGARY",
+		"KanalLogo": "https://onlinestream.live/logos/s6147.png",
+		"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277",
+		"PlayerType": "vitamio",
+		"PlayerControl": "false",
+		"OpenType": "pattern",
+		"PatternText": "BEIN_SPORTS_MAX1HD-ar,,,son",
+		"StaticText": ",,,son",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "",
+		"SonGuncellemeTarihi": "16.10.2016 13:39:18",
+		"Favori": 0,
+		"Secim": ""
+		},
+
+
 
 
 { "KanalNo": "8",
@@ -31,11 +53,11 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "ServerUrl": "ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "defaultplayer",
                 "PlayerControl": "true",
-                "OpenType": "graphm3u8",  
+                "OpenType": "pattern",  
                 "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]", 
                 "StaticText": "",
                 "LinkIndex": "",
@@ -62,7 +84,7 @@
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
-                "OpenType": "pattern",  
+                "OpenType": "",  
                 "PatternText": "['\"](http[^'\"]*bein2hd-ar[^'\"]*)['\"]", 
                 "StaticText": "",
                 "LinkIndex": "",
