@@ -35,7 +35,7 @@
 ",
   "PlayerType": "defaultplayer",
                 "PlayerControl": "true",
-                "OpenType": "pattern",  
+                "OpenType": "graphm3u8",  
                 "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]", 
                 "StaticText": "",
                 "LinkIndex": "",
