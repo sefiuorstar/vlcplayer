@@ -38,7 +38,7 @@
 		"StaticText": ",,,son",
 		"LinkIndex": "",
 		"Headers": "",
-		"UserAgent": "",
+		"UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
 		"SonGuncellemeTarihi": "16.10.2016 13:39:18",
 		"Favori": 0,
 		"Secim": ""
@@ -55,7 +55,7 @@
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be1.png", 
  "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
-  "PlayerType": "defaultplayer",
+  "PlayerType": "mxplayerplus",
                 "PlayerControl": "true",
                 "OpenType": "pattern",  
                 "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]", 
@@ -80,7 +80,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be2.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -89,7 +89,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -111,7 +111,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -120,7 +120,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -139,7 +139,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -148,7 +148,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -166,7 +166,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -175,7 +175,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -195,7 +195,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -204,7 +204,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -222,7 +222,7 @@
 
 
 
- {"KanalNo":"14","KanalAdi":"(AR) Bein Sports HD 7","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be7.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"14","KanalAdi":"(AR) Bein Sports HD 7","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be7.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -231,7 +231,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -240,7 +240,7 @@
             
 
 
- {"KanalNo":"15","KanalAdi":"(AR) Bein Sports HD 8","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be8.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"15","KanalAdi":"(AR) Bein Sports HD 8","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be8.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -249,7 +249,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -257,7 +257,7 @@
             }, 
             
  
- {"KanalNo":"16","KanalAdi":"(AR) Bein Sports HD 9","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be9.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"16","KanalAdi":"(AR) Bein Sports HD 9","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be9.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -266,7 +266,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -276,7 +276,7 @@
  
  
  
- {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 10","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be10.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"17","KanalAdi":"(AR) Bein Sports HD 10","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be10.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -285,7 +285,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -294,7 +294,7 @@
             
  
 
- {"KanalNo":"18","KanalAdi":"(AR) Bein Sports HD 11","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be11.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"18","KanalAdi":"(AR) Bein Sports HD 11","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be11.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -303,14 +303,14 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
              
             }, 
             
-  {"KanalNo":"19","KanalAdi":"(AR) Bein Sports HD 12","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be12.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+  {"KanalNo":"19","KanalAdi":"(AR) Bein Sports HD 12","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"http://wssfree.com/WSSv2.3/images/be12.png", "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -319,7 +319,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -353,7 +353,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -362,7 +362,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -378,7 +378,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -387,7 +387,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -405,7 +405,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -414,7 +414,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -430,7 +430,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1430.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -439,7 +439,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -536,7 +536,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a291.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -545,7 +545,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -563,7 +563,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a292.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -572,7 +572,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -589,7 +589,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a293.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -598,7 +598,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -614,7 +614,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a294.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -623,7 +623,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -641,7 +641,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a295.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -650,7 +650,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -666,7 +666,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a299.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -675,7 +675,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -699,7 +699,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a297.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -708,7 +708,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -728,7 +728,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a303.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -737,7 +737,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -751,7 +751,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a296.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -760,7 +760,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -778,7 +778,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a2452.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -787,7 +787,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -805,7 +805,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a670.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -814,7 +814,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -832,7 +832,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a304.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -841,7 +841,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -857,7 +857,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a768.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -866,7 +866,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -882,7 +882,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1144.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -891,7 +891,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -909,7 +909,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a665.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -918,7 +918,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -934,7 +934,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a300.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -943,7 +943,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -958,7 +958,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a302.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -967,7 +967,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -979,7 +979,7 @@
  
 
  
- {"KanalNo":"20","KanalAdi":"BT 1 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a97.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"20","KanalAdi":"BT 1 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a97.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -988,7 +988,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -996,7 +996,7 @@
             }, 
  
  
- {"KanalNo":"21","KanalAdi":"BT 2 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a100.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"21","KanalAdi":"BT 2 HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a100.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1005,7 +1005,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1017,7 +1017,7 @@
  
  
  {"KanalNo":"22","KanalAdi":"BT 3 
- HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a108.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a108.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1026,7 +1026,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1035,7 +1035,7 @@
  
  
  
- {"KanalNo":"23","KanalAdi":"BT ESPN HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a98.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ {"KanalNo":"23","KanalAdi":"BT ESPN HD","KategoriNo":"1","Aciklama":"SPORTS TV","Bayrak":"SPORTS TV","KanalLogo":"https://sport-tv-guide.live/images/stations/a98.png","ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1044,7 +1044,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1131,7 +1131,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1500.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1140,7 +1140,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1156,7 +1156,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1501.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1165,7 +1165,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1181,7 +1181,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1502.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1190,7 +1190,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1204,7 +1204,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1557.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1213,7 +1213,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1229,7 +1229,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a812.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
   "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1238,7 +1238,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1468,7 +1468,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a686.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1477,7 +1477,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1496,7 +1496,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a687.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
  "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1505,7 +1505,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1522,7 +1522,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a688.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1531,7 +1531,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1549,7 +1549,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a689.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1558,7 +1558,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1578,7 +1578,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1855.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1587,7 +1587,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1606,7 +1606,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1856.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1615,7 +1615,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1630,7 +1630,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1857.png", 
-"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1639,7 +1639,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
@@ -1654,7 +1654,7 @@
  "Aciklama":"SPORTS TV",
  "Bayrak": "SPORTS TV", 
  "KanalLogo": "https://sport-tv-guide.live/images/stations/a1858.png", 
- "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=2778340158&pid=1&mac=B89BED0206E0
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
 ",
 "PlayerType": "webplayer",
                 "PlayerControl": "true",
@@ -1663,7 +1663,7 @@
                 "StaticText": "",
                 "LinkIndex": "",
                 "Headers": "",
-                "UserAgent": "REDLINECLIENT",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
                 "SonGuncellemeTarihi": "24.04.2017 20:03:40",
                 "Favori": 0,
 		"Secim": ""
