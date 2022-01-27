@@ -32,29 +32,6 @@
 
 
 
-		{
-		"KanalNo": "12034",
-		"KanalAdi": "DALGA TV",
-		"KategoriNo": "6",
-		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
-		"Aciklama": "SINEMA KANALLARI",
-		"KanalLogo": "http://yoda.az/logos/dalga.png",
-		"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277",
-		"PlayerType": "defaultplayer",
-		"PlayerControl": "false",
-		"OpenType": "staticpattern",
-		"PatternText": "BEIN_SPORTS_MAX1HD-ar '(.*?)',,,,,,,,,,son",
-		"StaticText": "son,,,,,,|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0.17",
-		"LinkIndex": "",
-		"Headers": "",
-		"UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
-		"SonGuncellemeTarihi": "19.10.2016 07:05:42",
-		"Favori": 0,
-		"Secim": ""
-	},
-
-
-
 
   {
     "KanalNo": "9502",
