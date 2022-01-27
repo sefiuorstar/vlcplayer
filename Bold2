@@ -4,9 +4,6 @@
 
 
 
-
-
-
   {
     "KanalNo": "9502",
     "KanalAdi": "beIN Sports Max 2 HD",
@@ -24,13 +21,16 @@
   "PlayerType": "mxplayerplus",
                 "PlayerControl": "true",
                 "OpenType": "pattern",  
-                "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]",
+                "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0.17",
     "epg": "disabled",
     "dvr": "disabled",
     "language": "Arabic",
     "category": "Sport",
     "KanalLogo": "http://files.rednetcontent.com/chlogo/bein-max.png"
   },
+
+
+
 
 
 
