@@ -2,7 +2,26 @@
 	"Kanallar": [
 
 
-
+{
+		"KanalNo": "37020",
+		"KanalAdi": "La 1..",
+		"KategoriNo": "37",
+		"Aciklama": "SPAIN",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/spain.png",
+		"KanalLogo": "http://213.128.89.165/Main/Logo/mex/TVE_La1.png",
+		"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277",
+		"PlayerType": "defaultplayer",
+		"PlayerControl": "false",
+		"OpenType": "staticpattern",
+		"PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX1HD-ar[^'\"]*)['\"]",
+		"StaticText": ",,,,,,|User-Agent=REDLINECLIENT ANDROID MOBILE 1.0.17,,,son",
+		"LinkIndex": "",
+		"Headers": "REDLINECLIENT ANDROID MOBILE 1.0.17",
+		"RegexContains": ",,,,,son",
+		"SonGuncellemeTarihi": "18.10.2016 22:23:17",
+		"Favori": 0,
+		"Secim": ""
+		},    
 
 
 
