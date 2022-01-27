@@ -9,10 +9,6 @@
 
 
 
-
-
-
-
   {
     "KanalNo": "9502",
     "KanalAdi": "beIN Sports Max 2 HD",
@@ -30,15 +26,13 @@
   "PlayerType": "vitamio",
                 "PlayerControl": "true",
                 "OpenType": "pattern",  
-                "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX2HD-ar",
+                "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX2HD-ar[^'\"]*)['\"]",
     "epg": "disabled",
     "dvr": "disabled",
     "language": "Arabic",
     "category": "Sport",
     "KanalLogo": "http://files.rednetcontent.com/chlogo/bein-max.png"
   },
-
-
 
 
 
