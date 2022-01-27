@@ -3,12 +3,11 @@
 
 
 {
-		"KanalNo": "37020",
-		"KanalAdi": "La 1..",
-		"KategoriNo": "37",
-		"Aciklama": "SPAIN",
-		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/spain.png",
-		"KanalLogo": "http://213.128.89.165/Main/Logo/mex/TVE_La1.png",
+		"KanalNo": "9502",
+    "KanalAdi": "beIN Sports Max 2 HD",
+     "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
 		"ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277",
 		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
