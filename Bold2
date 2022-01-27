@@ -4,6 +4,8 @@
 
 
 
+		
+
 		{
 		"KanalNo": "12034",
 		"KanalAdi": "premier dream",
@@ -12,20 +14,44 @@
 		"Aciklama": "SINEMA KANALLARI",
 		"KanalLogo": "http://yoda.az/logos/dalga.png",
 		"ServerUrl": "http://dreamsat.cc:8080/BN_HD/dtQh7qpa/8",
-		"PlayerType": "defaultplayer",
+		"PlayerType": "mxplayerplus",
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": "",
 		"StaticText": "",
 		"LinkIndex": "",
-		"Headers": "",
+		"Headers": "REDLINECLIENT ANDROID MOBILE 1.0.17",
 		"UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
 		"SonGuncellemeTarihi": "19.10.2016 07:05:42",
 		"Favori": 0,
 		"Secim": ""
 	},
 		
-
+		
+		
+		
+		
+		{
+		"KanalNo": "12034",
+		"KanalAdi": "premier dream m3u8",
+		"KategoriNo": "6",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
+		"Aciklama": "SINEMA KANALLARI",
+		"KanalLogo": "http://yoda.az/logos/dalga.png",
+		"ServerUrl": "http://dreamsat.cc:8080/live/BN_HD/dtQh7qpa/8.m3u8",
+		"PlayerType": "mxplayerplus",
+		"PlayerControl": "false",
+		"OpenType": "direct",
+		"PatternText": "",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "REDLINECLIENT ANDROID MOBILE 1.0.17",
+		"UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
+		"SonGuncellemeTarihi": "19.10.2016 07:05:42",
+		"Favori": 0,
+		"Secim": ""
+	},
+		
 
 
 
