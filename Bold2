@@ -14,7 +14,7 @@
 		"Aciklama": "SINEMA KANALLARI",
 		"KanalLogo": "http://yoda.az/logos/dalga.png",
 		"ServerUrl": "http://dreamsat.cc:8080/BN_HD/dtQh7qpa/8|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43",
-		"PlayerType": "exoplayer",
+		"PlayerType": "mxplayerplus",
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": "",
