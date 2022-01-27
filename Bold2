@@ -13,7 +13,30 @@
 
 
 
-
+  {
+    "KanalNo": "9502",
+    "KanalAdi": "beIN Sports Max 2 HD",
+     "KategoriNo": "1",
+ "Aciklama":"SPORTS TV",
+ "Bayrak": "SPORTS TV", 
+ "ServerUrl": "https://android.rediptv2.com/ch.php?usercode=7687398334&pid=1&mac=B89BED0251E1&sn=33233330353633B89BED0251E1&customer=Xiaomi&lang=eng&cs=amlogic&check=387455277
+",
+"StaticText": "",
+                "LinkIndex": "",
+                "Headers": "",
+                "UserAgent": "REDLINECLIENT ANDROID MOBILE 1.0.17",
+                "Favori": 0,
+		"Secim": ""
+  "PlayerType": "vitamio",
+                "PlayerControl": "true",
+                "OpenType": "pattern",  
+                "PatternText": "['\"](http[^'\"]*BEIN_SPORTS_MAX2HD-ar",
+    "epg": "disabled",
+    "dvr": "disabled",
+    "language": "Arabic",
+    "category": "Sport",
+    "KanalLogo": "http://files.rednetcontent.com/chlogo/bein-max.png"
+  },
 
 
 
