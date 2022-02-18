@@ -27,7 +27,16 @@ https://.../playready.mpd
 http://dreamsat.cc:8080/BN_HD/dtQh7qpa/20/useragent.m3u8
 
 #EXTINF:-1 group-title="122Sample with UA+Referer",Channel /w UserAgent #1
-http://dreamsat.cc:8080/BN_HD/dtQh7qpa/2|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/live/BN_HD/dtQh7qpa/20.m3u8|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+
+
+#EXTINF:-1 group-title="122m3Sample with UA+Referer",Channel /w UserAgent #1
+http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_x_tkQXuGlAMMH9lcrgBpyQ==,1645251659.5985287385&t=0&s=10&p=1&c=GB&r=62&lb=1|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+
+
+
+
+
 
 #EXTINF:-1 group-title="Sample with UA+Referer",Channel /w Referer
 #EXTVLCOPT:http-referrer=https://...
