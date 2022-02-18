@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "name": "Sample Basic",
+      "channels": [
+        {
+          "name": "Channel Basic",
+          "stream_url": "https://.../basic.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sample with DRM",
+      "channels": [
+        {
+          "name": "Channel ClearKey",
+          "drm_id": "drm_ck",
+          "stream_url": "https://.../clearkey.mpd"
+        },
+        {
+          "name": "Channel Widevine",
+          "drm_id": "drm_wv",
+          "stream_url": "https://.../widevine.mpd"
+        },
+        {
+          "name": "Channel PlayReady",
+          "drm_id": "drm_pr",
+          "stream_url": "https://.../playready.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Sample with UserAgent & Referer",
+      "channels": [
+        {
+          "name": "bein  /w UserAgent",
+          "stream_url": "http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_x_tkQXuGlAMMH9lcrgBpyQ==,1645251659.5985287385&t=0&s=10&p=1&c=GB&r=62&l",
+          "user_agent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02"
+        },
+        
+         {
+          "name": "bein  /w UserAgent",
+          "stream_url": "http://46.105.112.116/?watch=EX/bein9sd-ar&token=RED_x_tkQXuGlAMMH9lcrgBpyQ==,1645251659.5985287385&t=0&s=10&p=1&c=GB&r=62&l",
+          "user_agent": "REDLINECLIENT Redmi Redmi Note 8 Pro 1.0.02"
+        },
+        
+        
+        {
+          "name": "Channel /w Referer",
+          "stream_url": "https://.../referer.m3u8",
+          "referer": "https://..."
+        },
+        {
+          "name": "Channel /w UA+Referer",
+          "stream_url": "https://.../ua-referer.m3u8",
+          "user_agent": "VLCPlayer (Android 12)",
+          "referer": "https://..."
+        }
+      ]
+    }
+  ],
+  "drm_licenses": [
+    {
+      "drm_id": "drm_ck",
+      "drm_type": "clearkey",
+      "drm_key": "AAAABBBB:00001111"
+    },
+    {
+      "drm_id": "drm_wv",
+      "drm_type": "widevine",
+      "drm_key": "https://..."
+    },
+    {
+      "drm_id": "drm_pr",
+      "drm_type": "playready",
+      "drm_key": "https://..."
+    }
+  ]
+}
